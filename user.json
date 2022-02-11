@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "firstName": "Pablo",
+  "lastName": "Escobar",
+  "age": 44,
+  "gender": "male",
+  "job": null,
+  "residentialAddress":{
+    "country": "",
+    "city": "",
+    "street": "",
+    "additionalStreet": null,
+    "zip": 12345
+  },
+  "children": [
+    "Manuella Escobar",
+    "Juan Pablo Escobar"
+  ],
+  "contactUser":{
+    "name": "Hemilda Gaviria",
+    "age": 80
+  }
+}
