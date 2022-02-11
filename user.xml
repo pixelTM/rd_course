@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user>
+	<id>1</id>
+	<firstName>Pablo</firstName>
+	<lastName>Escobar</lastName>
+	<age>44</age>
+	<gender>male</gender>
+	<job></job>
+	<residentialAddress>
+		<country>Colombia</country>
+		<city>Rionegro</city>
+		<street></street>
+		<additionalStreet></additionalStreet>
+		<zip>12345</zip>
+	</residentialAddress>
+	<children>
+		<element>Manuella Escobar</element>
+		<element>Juan Pablo Escobar</element>
+	</children>
+	<contactUser>
+		<name>Hemilda Gaviria</name>
+		<age>80</age>
+	</contactUser>
+</user>
